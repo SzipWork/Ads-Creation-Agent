@@ -1,4 +1,4 @@
-# Ad Creation Agent
+# Ads Creation Agent
 This is an application that automates TikTok ad creation using AI-powered intent extraction and a structured workflow graph. The system processes user messages, extracts ad campaign parameters, validates business rules, and submits ads to the TikTok API.
 
 ## Architecture
