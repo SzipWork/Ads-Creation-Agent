@@ -8,11 +8,11 @@ User Request → Intent Extraction → OAuth Validation → Business Rules → M
 ```
 
 ## Key Components
-- FastAPI Server (main.py)
-- LangGraph Workflow (graph.py)
-- State Management (state.py)
-- Processing Nodes (nodes.py)
-- LLM Integration (llm.py)
+- FastAPI Server
+- LangGraph Workflow
+- State Management
+- Processing Nodes
+- LLM Integration
 - Service Modules
 
 ## Features
@@ -68,6 +68,4 @@ app/
 │   ├── oauth.py         # OAuth validation
 │   ├── music.py         # Music handling
 │   └── tiktok_api.py    # TikTok API integration
-└── prompts/
-    └── ad_agent_prompt.py # LLM prompts
 ```
